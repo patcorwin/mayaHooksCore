@@ -18,6 +18,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Mercurial/python
+.hg/
+*.pyc
+
 # =========================
 # Operating System Files
 # =========================
